@@ -6,8 +6,8 @@ This repository contains the code and supplementary materials for the paper **"E
 
 We introduce **kinetic path energy (KPE)**, a physics-inspired diagnostic that quantifies the kinetic effort along generation trajectories in flow-based models. Our experiments on CIFAR-10 and ImageNet-256 reveal that:
 
-- Higher KPE predicts stronger semantic quality
-- Higher KPE inversely correlates with data density
+- Higher KPE → higher semantic strength
+- Higher KPE → lower data density
 
 ## Code
 
